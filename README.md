@@ -17,13 +17,21 @@ Additionally, the users can schedule a reservation. Which they can review and al
 It has the following features -
 
 -Auto complete feature(implemented using Angular Material)
+
 -Auto Detect Location Feature(which makes use of google apis to get location and only works if you are located in the US)
+
 -Displaying top 10 search results based on data given in the form.
+
 -Displaying more information about the data selected from the search results (data fetched from Api Call)
+
 -Share to facebook and twitter functionality
+
 -Angular form validations
+
 -Embedding Google Maps
+
 -Using local storage to store and remove bookings
+
 -Bootstrap responsive grid design
 
 **Few Snapshots of the website**
@@ -42,7 +50,9 @@ It has the following features -
 
 
 <img src="https://user-images.githubusercontent.com/39809810/208675930-cefb4450-910b-41f9-9b45-4efbdbabee85.png"  height="550"/>
+
 <img src="https://user-images.githubusercontent.com/39809810/208675928-c17bf933-5418-49d5-91c6-7558a11f0414.png"  height="550"/>
+
 <img src="https://user-images.githubusercontent.com/39809810/208675917-d614714c-5993-400f-9530-624b99b8ded8.png"  height="550"/>
 
 
