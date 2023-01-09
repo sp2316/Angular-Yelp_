@@ -6,8 +6,8 @@ Youtube Link: <a href="https://youtu.be/LB2wXMg-Mrg">Video </a>
 
 This is an Web Application implementing the yelp application with basic functionality with Angular.js as front end and Node.js as backend, which allows users to search for restaurants and businesses and look at detailed information about them.
 
-The frontend of this website must be implemented using the Angular framework and is hosted on google cloud app engine.
-The backend of this homework must be implemented using the Node.js and is hosted on google cloud app engine.
+The frontend of this website is implemented using the Angular framework and is hosted on google cloud app engine.
+The backend of this homework is implemented using the Node.js and is hosted on google cloud app engine.
 This website is made responsive with CSS media queries and Bootstrap
 
 There are two routes- Search and bookings.
